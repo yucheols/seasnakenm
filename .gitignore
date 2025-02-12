@@ -49,3 +49,6 @@ po/*~
 rsconnect/
 
 data/envs/
+maxent.jar
+codes/colubrina_ENMs_fx.r
+codes/colubrina_test_ENMeval.r
